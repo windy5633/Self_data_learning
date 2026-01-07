@@ -1,0 +1,20 @@
+2025-Nov-12-16:02:47,etl_practice.py ETL Job Started
+2025-Nov-12-16:02:47,Extract phase Started
+2025-Nov-12-16:02:47,Extract phase Ended
+2025-Nov-12-16:02:47,Transform phase Started
+2025-Nov-12-16:03:05,etl_practice.py ETL Job Started
+2025-Nov-12-16:03:05,Extract phase Started
+2025-Nov-12-16:03:05,Extract phase Ended
+2025-Nov-12-16:03:05,Transform phase Started
+2025-Nov-12-16:04:28,etl_practice.py ETL Job Started
+2025-Nov-12-16:04:28,Extract phase Started
+2025-Nov-12-16:04:28,Extract phase Ended
+2025-Nov-12-16:04:28,Transform phase Started
+2025-Nov-12-16:06:32,etl_practice.py ETL Job Started
+2025-Nov-12-16:06:32,Extract phase Started
+2025-Nov-12-16:06:32,Extract phase Ended
+2025-Nov-12-16:06:32,Transform phase Started
+2025-Nov-12-16:06:32,Transform phase Ended
+2025-Nov-12-16:06:32,Load phase Started
+2025-Nov-12-16:06:32,Load phase Ended
+2025-Nov-12-16:06:32,etl_practice.py ETL Job Ended
